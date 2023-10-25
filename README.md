@@ -17,5 +17,5 @@ A simple and secure password generator script written in Bash, capable of genera
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/secure-password-generator.git
+   git clone https://github.com/OWLsec-community/secure-password-generator.git
    cd secure-password-generator
